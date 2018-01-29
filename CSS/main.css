@@ -41,7 +41,7 @@ p {
 }
 
 .container {
-	background-image: url("./bg_img.jpg");
+	background-image: url("Assets/space-bg.jpg");
 	background-position: center;
 	background-size: cover;
 }
